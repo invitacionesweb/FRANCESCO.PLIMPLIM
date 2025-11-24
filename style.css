@@ -361,6 +361,12 @@ footer img {
 .contenido a:hover {
     color: var(--color-secundario);
 }
+.quote {
+    background-color: var(--color-secundario);
+    color: var(--color-principal);
+    text-align: center;
+    padding: 20px 0;
+}
 
 @media (max-width: 600px) {
     header {
