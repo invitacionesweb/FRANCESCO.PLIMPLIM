@@ -367,6 +367,10 @@ footer img {
     text-align: center;
     padding: 20px 0;
 }
+.quote p {
+    max-width: 500px;
+    font-size: 1.2Rem;
+}
 
 @media (max-width: 600px) {
     header {
